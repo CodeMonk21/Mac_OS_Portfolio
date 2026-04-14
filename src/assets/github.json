@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
+    "title": "SaaS Analytics Dashboard",
+    "description": "A scalable analytics dashboard for SaaS businesses with real-time data visualization and user insights.",
+    "tags": ["React", "Node.js", "Express", "MongoDB", "Redis", "Docker", "Chart.js"],
+    "repoLink": "https://github.com/username/saas-dashboard",
+    "demoLink": "https://saas-dashboard-demo.vercel.app"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=600&fit=crop",
+    "title": "Full Stack E-commerce Platform",
+    "description": "A production-ready e-commerce platform with payment integration, admin panel, and order management.",
+    "tags": ["Next.js", "Node.js", "MongoDB", "Stripe", "Redux Toolkit", "Tailwind CSS"],
+    "repoLink": "https://github.com/username/fullstack-ecommerce",
+    "demoLink": "https://ecommerce-demo.vercel.app"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=800&h=600&fit=crop",
+    "title": "Real-time Collaboration Tool",
+    "description": "A collaborative workspace with real-time editing, chat, and presence indicators.",
+    "tags": ["React", "Node.js", "Socket.io", "PostgreSQL", "WebRTC", "Docker"],
+    "repoLink": "https://github.com/username/collab-tool",
+    "demoLink": "https://collab-demo.vercel.app"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&h=600&fit=crop",
+    "title": "Multi-user Blogging Platform",
+    "description": "A full-featured blogging platform with authentication, role-based access, and markdown editor.",
+    "tags": ["Next.js", "Prisma", "PostgreSQL", "JWT", "Cloudinary", "GraphQL"],
+    "repoLink": "https://github.com/username/blog-platform",
+    "demoLink": "https://blog-demo.vercel.app"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=600&fit=crop",
+    "title": "Finance & Expense Tracker API",
+    "description": "A backend-heavy project with REST APIs, authentication, and financial analytics.",
+    "tags": ["Node.js", "Express", "MongoDB", "JWT", "Redis", "Swagger", "Docker"],
+    "repoLink": "https://github.com/username/finance-api",
+    "demoLink": "https://finance-demo.vercel.app"
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1501973801540-537f08ccae7b?w=800&h=600&fit=crop",
+    "title": "AI-powered Weather Insights",
+    "description": "Weather forecasting app enhanced with predictive analytics and AI-based recommendations.",
+    "tags": ["Python", "FastAPI", "React", "TensorFlow", "OpenWeather API", "Docker"],
+    "repoLink": "https://github.com/username/ai-weather",
+    "demoLink": "https://weather-ai-demo.vercel.app"
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1522199710521-72d69614c702?w=800&h=600&fit=crop",
+    "title": "Developer Portfolio CMS",
+    "description": "A headless CMS to manage portfolio projects dynamically with an admin dashboard.",
+    "tags": ["Next.js", "Node.js", "MongoDB", "GraphQL", "Tailwind CSS", "AWS S3"],
+    "repoLink": "https://github.com/username/portfolio-cms",
+    "demoLink": "https://portfolio-cms-demo.vercel.app"
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=600&fit=crop",
+    "title": "Task Management System (Microservices)",
+    "description": "A scalable task manager built with microservices architecture and event-driven communication.",
+    "tags": ["Node.js", "Kafka", "Docker", "Kubernetes", "MongoDB", "Redis", "Nginx"],
+    "repoLink": "https://github.com/username/task-microservices",
+    "demoLink": "https://task-system-demo.vercel.app"
+  }
+]
