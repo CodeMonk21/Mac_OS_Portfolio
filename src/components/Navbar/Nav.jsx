@@ -2,7 +2,7 @@ import React from 'react'
 import './nav.scss'
 import DateTime from './DateTime'
 
-function Nav() {
+function Nav({setWindowState}) {
   return (
     <nav>
         <div className="left">
@@ -12,13 +12,13 @@ function Nav() {
             <div className="nav-item">
                 <p>Jagrit Madaan</p>
             </div>
-            <div className="nav-item">
+            <div onClick={()=>setWindowState(state=>({...state,note:true}))} className="nav-item">
                 <p>File</p>
             </div>
             <div className="nav-item">
                 <p>Window</p>
             </div>
-            <div className="nav-item">
+            <div onClick={()=>setWindowState(state=>({...state,cli:true}))} className="nav-item">
                 <p>Terminal</p>
             </div>
         </div>
