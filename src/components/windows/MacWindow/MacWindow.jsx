@@ -2,13 +2,13 @@ import React from 'react'
 import {Rnd} from 'react-rnd'
 import './window.scss'
 
-function MacWindow({children}) {
+function MacWindow({children,width="40vw",height="55vh"}) {
   return (
     <>
         <Rnd
         default={{
-            width:"40vw",
-            height:"60vh",
+            width:width,
+            height:height,
             x:100,
             y:100
         }}
