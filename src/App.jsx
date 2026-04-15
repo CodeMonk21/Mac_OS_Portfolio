@@ -1,9 +1,12 @@
 import React from 'react'
 import './app.scss'
-import Dock from './components/Dock'
-import Nav from './components/Nav'
-import MacWindow from './components/windows/MacWindow'
-import Github from './components/windows/Github'
+import Dock from './components/Dock/Dock'
+import Nav from './components/Navbar/Nav'
+import Github from './components/windows/GithubWindow/Github'
+import Note from './components/windows/NoteWindow/Note'
+import Resume from './components/windows/ResumeWindow/Resume'
+
+
 
 function App() {
   return (
@@ -11,6 +14,8 @@ function App() {
       <Nav />
       <Dock />
       <Github />
+      <Note />
+      <Resume />
     </main>
   )
 }

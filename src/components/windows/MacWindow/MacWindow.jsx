@@ -8,7 +8,7 @@ function MacWindow({children}) {
         <Rnd
         default={{
             width:"40vw",
-            height:"50vh",
+            height:"60vh",
             x:100,
             y:100
         }}
