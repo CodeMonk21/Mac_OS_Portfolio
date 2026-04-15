@@ -1,0 +1,12 @@
+div.cli-window{
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    padding-bottom: 5rem;
+    background-color: rgb(44, 44, 44);
+
+    .terminal{
+        height: 100%;
+        background: transparent !important;
+    }
+}
