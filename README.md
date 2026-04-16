@@ -122,10 +122,10 @@ The goal of this project is to:
 
 ```bash id="install001"
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/CodeMonk21/Mac_OS_Portfolio.git
 
 # Navigate into the project
-cd your-repo-name
+cd Mac_OS_Portfolio
 
 # Install dependencies
 npm install
@@ -171,8 +171,8 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ## 📬 Contact
 
-* GitHub: https://github.com/your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://www.linkedin.com/in/jagrit-madaan/
+* Email: [jagritmadaan2001@gmail.com](mailto:your-email@example.com)
 
 ---
 
